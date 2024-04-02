@@ -1,17 +1,16 @@
-﻿//Declare an Array and take input from user. find min and max value
-// declare an array and take input from user. find the number which are divisible by 3 print the number in a different array.
-
-int[] array = new int[3];
-int i = 0;
-for (i = 0; i < array.Length; i++)
+﻿class gradeAverage
 {
-    Console.WriteLine($"Enter {i + 1} Number");
-    array[i] = Convert.ToInt16(Console.ReadLine());
-}
 
-for (i = 0; i < array.Length; i++)
-{
-    Console.WriteLine(array[i]);
-}
+    static void Main(string[] args)
+    {
+        double a = 3.5;
+        double b = 7.5;
+        //Given, A has weight 3.5 and B has weight 7.5
 
-if (i)
+        double average = (3.5 + 7.5) / 2;
+
+        Console.WriteLine($"Average is: {average} ");
+
+    }
+
+}
