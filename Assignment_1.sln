@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Assignment_3", "Assignment_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "beeCrowd_1005_problem", "beeCrowd_1005_problem\beeCrowd_1005_problem.csproj", "{0AB25E93-9533-4BD0-B50A-82BE062C581F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "beeCrowd_1002_problem", "beeCrowd_1002_problem\beeCrowd_1002_problem.csproj", "{57F90738-1BB9-4469-BE44-0299BA34C80C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{0AB25E93-9533-4BD0-B50A-82BE062C581F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0AB25E93-9533-4BD0-B50A-82BE062C581F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0AB25E93-9533-4BD0-B50A-82BE062C581F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57F90738-1BB9-4469-BE44-0299BA34C80C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57F90738-1BB9-4469-BE44-0299BA34C80C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57F90738-1BB9-4469-BE44-0299BA34C80C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57F90738-1BB9-4469-BE44-0299BA34C80C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
