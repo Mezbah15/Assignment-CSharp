@@ -16,7 +16,7 @@ class gradeAverage
         //Given, A has weight 3.5 and B has weight 7.5
 
         double average = (a + b) / 2;
-
+       
         Console.WriteLine($"Average is: {average} ");
 
     }
